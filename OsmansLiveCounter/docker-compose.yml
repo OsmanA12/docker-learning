@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports: 
+    - "7777:7777"
+    depends_on: 
+      - myredis
+    environment:
+      - REDIS_HOST=myredis
+      - REDIS_PORT=6379
+
+  myredis:
+    image: redis:latest 
+    volumes:
+    - redis-data:/data
+
+  nginx:
+    image: nginx:latest
+    ports:
+     - "8080:7777"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+    depends_on:
+     - web
+
+volumes:
+  redis-data:
+
+
