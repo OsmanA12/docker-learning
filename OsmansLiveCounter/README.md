@@ -12,7 +12,7 @@ Welcome to my first Flask web application, Osman’s Live Counter! 🎉 This rep
 ### Welcome  
 Welcome to my first Flask web application, Osman’s Live Counter! 🎉 This represents my understanding of Docker and how I put all my learning into practice by creating this app.
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/ozzyc/Desktop/Screenshots/Screenshot%202024-10-12%20at%2018.23.31.png?version%3D1728843086962)
+https://ibb.co/V9n9fVY
 
 ---
 
