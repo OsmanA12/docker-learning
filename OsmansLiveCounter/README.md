@@ -12,7 +12,8 @@ Welcome to my first Flask web application, Osman’s Live Counter! 🎉 This rep
 ### Welcome  
 Welcome to my first Flask web application, Osman’s Live Counter! 🎉 This represents my understanding of Docker and how I put all my learning into practice by creating this app.
 
-https://ibb.co/V9n9fVY
+<img width="1440" alt="Screenshot 2024-10-12 at 18 23 31" src="https://github.com/user-attachments/assets/d3289e34-a02b-4346-8d03-239db8e16ad9">
+
 
 ---
 
@@ -112,7 +113,8 @@ The home page introduces users to Osman’s Live Counter and features two main b
 - **About:** Takes users to the About page.  
 - **Check Visit Counter:** Redirects users to the Visit Counter page, where they can view the current visit count.
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/ozzyc/Desktop/Screenshots/Screenshot%202024-10-12%20at%2018.23.31.png?version%3D1728843282951)
+<img width="1440" alt="Screenshot 2024-10-12 at 18 23 31" src="https://github.com/user-attachments/assets/4e83962d-d3e9-4260-b060-0096d1b81d6c">
+
 
 ---
 
@@ -125,7 +127,8 @@ This is the app’s central feature, showcasing the following:
 
 The progress bar and background can be customised to match your brand’s style. 🎨
 
-![alt text](<Screenshot 2024-10-12 at 18.23.46.png>)
+<img width="1440" alt="Screenshot 2024-10-12 at 18 23 46" src="https://github.com/user-attachments/assets/2006a05e-460f-41b2-b16a-57cdaaac9713">
+
 
 ---
 
@@ -136,7 +139,8 @@ The About page offers a detailed overview of the project, including:
 - The technologies behind it, such as Flask, Redis, Docker, and Nginx.  
 - Future plans and potential improvements for the project.
 
-![alt text](<Screenshot 2024-10-12 at 18.23.38.png>)
+<img width="1440" alt="Screenshot 2024-10-12 at 18 23 38" src="https://github.com/user-attachments/assets/8313534e-c538-450d-b3cc-1ec321ab0ecb">
+
 
 
 
