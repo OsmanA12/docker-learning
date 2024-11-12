@@ -1,7 +1,7 @@
 # Docker learning
 
+<img width="405" alt="Screenshot 2024-11-12 at 19 51 13" src="https://github.com/user-attachments/assets/bcf2ca73-df0a-4ef8-8904-1379858c16c4">
 
----
 
 ## **Containers**
 
